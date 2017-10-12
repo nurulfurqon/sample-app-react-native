@@ -1,0 +1,4 @@
+#Thu Sep 14 16:13:01 WIB 2017
+base.0=/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

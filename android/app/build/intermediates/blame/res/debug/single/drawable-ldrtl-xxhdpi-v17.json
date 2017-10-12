@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

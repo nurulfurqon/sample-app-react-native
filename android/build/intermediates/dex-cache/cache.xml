@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/mnt/38F60B36F60AF3C2/mascode app/Sheetup/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00bb2530261f4fda70b460b7c08922e608f4d641">
+        <dex dex="/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/pre-dexed/debug/classes_0ada9c67f195474d6d6d6f46e944a4d397fa6e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dfurqon/.android/build-cache/d1b921e86aab0d1c0bdadd304989fea4c216b56e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/pre-dexed/debug/classes_2a3085d984b30f08456f18d487af041a6364db71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dfurqon/.android/build-cache/d1b921e86aab0d1c0bdadd304989fea4c216b56e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_446085f3d6bcdc5434efe5d63ee245bed9da22bd.jar" />
+    </item>
+
+</items>

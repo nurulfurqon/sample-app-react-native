@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/dfurqon/.android/build-cache/d1b921e86aab0d1c0bdadd304989fea4c216b56e/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/dfurqon/.android/build-cache/d1b921e86aab0d1c0bdadd304989fea4c216b56e/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/dfurqon/.android/build-cache/d1b921e86aab0d1c0bdadd304989fea4c216b56e/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/dfurqon/.android/build-cache/d1b921e86aab0d1c0bdadd304989fea4c216b56e/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/dfurqon/.android/build-cache/d1b921e86aab0d1c0bdadd304989fea4c216b56e/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/dfurqon/.android/build-cache/d1b921e86aab0d1c0bdadd304989fea4c216b56e/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/mnt/38F60B36F60AF3C2/mascode app/Sheetup/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/dfurqon/.android/build-cache/d9c900e4d13b595df28bdb9ecc29fd5d35035d5b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]
